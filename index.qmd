@@ -1,0 +1,16 @@
+---
+title: "¿Por qué no lo hiciste en Microsoft Word? Cómo hacer una tesis doctoral reproducible usando R y Quarto"
+subtitle: "XII Congreso Colombiano de Botánica"
+author:
+  - name: "Álex Espinosa Correa"
+    affiliation: "Universidad de Antioquia"
+# date: 2024-11-02
+
+format:
+  xii-ccb-revealjs:
+    embed-resources: true
+    footer: "<https://alexespinosaco.github.io/xii-ccb-quarto>"
+# bibliography: references.bib
+---
+
+## Introducción
